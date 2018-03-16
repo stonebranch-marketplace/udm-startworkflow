@@ -1,2 +1,2 @@
-# udm-startworkflow-unix
-# Compare a string with a variable and print the results
+# udm-startworkflow
+# UDM Script for comparing a string with a variable and print the results
